@@ -1,4 +1,3 @@
-package internship;
 import java.util.Scanner;
 
 public class practice {
